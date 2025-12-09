@@ -3,7 +3,7 @@
 
 
 [window]
-dimensions={columns=150, lines=31}
+dimensions={columns=150, lines=32}
 title="" #Default: "Alacritty"
 padding = { x = 10, y = 10 }
 dynamic_padding = true

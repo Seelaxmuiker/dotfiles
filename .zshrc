@@ -97,7 +97,7 @@ compinit
 
 
 
-fastfetch --disk-folders "/"
+fastfetch
 TERMINAL=alacritty
 
 
