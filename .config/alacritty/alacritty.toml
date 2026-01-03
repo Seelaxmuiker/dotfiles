@@ -3,7 +3,7 @@
 
 
 [window]
-dimensions={columns=150, lines=32}
+dimensions={columns=150, lines=31}
 title="" #Default: "Alacritty"
 padding = { x = 10, y = 10 }
 dynamic_padding = true
@@ -38,7 +38,7 @@ unfocused_hollow=true
 
 
 [terminal]
-#shell="/bin/zsh" #Specify Shell; Default: default user shell
+shell="/bin/zsh" #Specify Shell; Default: default user shell
 
 
 [mouse]
